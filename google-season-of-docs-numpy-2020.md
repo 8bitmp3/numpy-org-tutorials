@@ -32,6 +32,8 @@ of NumPy documentation by creating three in-depth tutorials that will hopefully
 help both new NumPy users and more experienced Pythonistas from diverse
 backgrounds during their journey.
 
+![Images from GSoD 2020 NumPy tutorials](GSoD-2020.png)
+
 ## Completed tutorials
  
 1. **NumPy deep learning on MNIST from scratch**
